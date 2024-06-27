@@ -10,7 +10,7 @@ const TalentChoose = () => {
         <div className="flex border-0 border-red-500 relative mt-16 lg:mt-0 ">
           <div className="md:ml-[25%] lg:ml-[0%] left-[25%] lg:left-[0%]">
             <img
-              src={about1} // Replace with the actual image URL
+              src={about1} 
               alt="Man with Tablet"
               className=" rounded-lg shadow-lg"
             />
@@ -18,7 +18,7 @@ const TalentChoose = () => {
           </div>
           <div className="absolute top-[50%] left-[25%] md:left-[40%] lg:left-[25%] lg:top-[50%]">
             <img
-              src={about3} // Replace with the actual image URL
+              src={about3} 
               alt="Woman with Laptop"
               className=" rounded-lg shadow-lg"
             />

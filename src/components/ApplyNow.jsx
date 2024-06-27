@@ -15,7 +15,7 @@ const ApplyNow = () => {
         {/* Left Section */}
         <div className="order-2 lg:order-1 flex flex-col items-center lg:items-start text-center lg:text-left">
         <img
-            src={applyImg} // Replace with the actual image URL
+            src={applyImg} 
             alt="Person"
             className="w-130 h-130"
           />
