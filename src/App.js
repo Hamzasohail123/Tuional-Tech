@@ -1,3 +1,5 @@
+import ApplyNow from "./components/ApplyNow";
+import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
 import TalentChoose from "./components/TaleNTChoose";
@@ -11,7 +13,8 @@ export default function App() {
       <HeroSection />
       <TeamValues />
       <TalentChoose />
-      
+      <ApplyNow />
+      <Footer />
     </h1>
   )
 }
